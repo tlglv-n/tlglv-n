@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏛 The 3rd y. student of KBTU (Kazakh-British Technical University)
+- 🦅 iOS developer
+- 🏛 Student of KBTU (Kazakh-British Technical University)
 - 🛠 Currently learning: Swift Unit-tests, Moya, Realm, programming concepts
 - 🧾 My CV: https://drive.google.com/drive/folders/1Xu2XxsV7HkkuSgyI5LvZMQZ4i72nE-oV
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlglv-n&layout=compact)
 ---
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tlglvn/)
