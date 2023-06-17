@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🧾 My CV: https://drive.google.com/drive/folders/1Xu2XxsV7HkkuSgyI5LvZMQZ4i72nE-oV
 ---
 ### Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tlglvn/)
 &nbsp;&nbsp;
 ---
 ### Languages and Tools
