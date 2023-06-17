@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🦅 iOS developer
-- 🏛 Student of KBTU (Kazakh-British Technical University)
+- 🏛 The 3rd y. Student of KBTU (Kazakh-British Technical University)
 - 🛠 Currently learning: Swift Unit-tests, Moya, Realm, programming concepts
 - 🧾 My CV: https://drive.google.com/drive/folders/1Xu2XxsV7HkkuSgyI5LvZMQZ4i72nE-oV
 ---
