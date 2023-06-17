@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/tlglvn#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tlglvn#gh-dark-mode-only)
+&nbsp;&nbsp;
 ---
 ### Languages and Tools
 
