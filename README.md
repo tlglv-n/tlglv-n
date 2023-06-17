@@ -1,4 +1,4 @@
-### Hi, I'm Nurdaulet T.
+### Hi, I'm Nurdaulet T. 🕷
 **Ambitious engineer 🗡**
 <!--
 **tlglv-n/tlglv-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🦅 iOS developer
+- 🦅 iOS developer from KZ
 - 🏛 The 3rd y. Student of KBTU (Kazakh-British Technical University)
 - 🛠 Currently learning: Swift Unit-tests, Moya, Realm, programming concepts
 - 🧾 My CV: https://drive.google.com/drive/folders/1Xu2XxsV7HkkuSgyI5LvZMQZ4i72nE-oV
