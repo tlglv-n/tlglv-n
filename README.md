@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Nurdaulet T.
+**Ambitious engineer 🗡**
 <!--
 **tlglv-n/tlglv-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🏛 The 3rd y. student of KBTU (Kazakh-British Technical University)
+- 🛠 Currently learning: Swift Unit-tests, Moya, Realm, programming concepts
+- 🧾 My CV: https://drive.google.com/drive/folders/1Xu2XxsV7HkkuSgyI5LvZMQZ4i72nE-oV
+---
+### Connect with me:
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/tlglvn#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tlglvn#gh-dark-mode-only)
+---
+### Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=swift,java,cpp,js,ts,html,css,angular,py,eclipse,firebase,postman,sqlite,postgres)](https://skillicons.dev)
