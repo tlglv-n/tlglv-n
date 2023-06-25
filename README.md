@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🦅 iOS developer from KZ
-- 🏛 The 3rd y. Student of KBTU (Kazakh-British Technical University)
-- 🛠 Currently learning: Swift Unit-tests, ML, programming concepts
+  
+- 🏛 Student of KBTU (Kazakh-British Technical University)
+  
+- 🛠 Currently learning: Swift Unit-tests, project-programming concepts
+  
 - 🧾 My CV: https://drive.google.com/drive/folders/1Xu2XxsV7HkkuSgyI5LvZMQZ4i72nE-oV
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlglv-n&layout=compact)
