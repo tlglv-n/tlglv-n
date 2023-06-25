@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ---
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=swift,java,cpp,js,ts,html,css,angular,py,eclipse,firebase,postman,sqlite,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,java,cpp,js,ts,html,css,angular,py,django,eclipse,firebase,postman,sqlite,postgres)](https://skillicons.dev)
