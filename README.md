@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 - 🏛 Student of KBTU (Kazakh-British Technical University)
   
-- 🛠 Currently learning: Swift Unit-tests, project-programming concepts
+- 🛠 Currently learning: Moya, sockets in Swift, CoreML
   
 - 🧾 My CV: https://drive.google.com/drive/folders/1Xu2XxsV7HkkuSgyI5LvZMQZ4i72nE-oV
 ---
