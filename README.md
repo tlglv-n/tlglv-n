@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🦅 iOS developer from KZ
+- 🦅 Golang developer from KZ
   
 - 🏛 Student of KBTU (Kazakh-British Technical University)
   
-- 🛠 Currently learning: Moya, sockets in Swift, CoreML
+- 🛠 Currently learning: making pet-projects
   
-- 🧾 My CV: https://drive.google.com/drive/folders/1Xu2XxsV7HkkuSgyI5LvZMQZ4i72nE-oV
+- 🧾 My CV: [Link](https://drive.google.com/file/d/1Inj--snozHTAC9-7_Xl8Sw1skJHl-3RM/view)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlglv-n&layout=compact)
 ---
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ---
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=swift,java,cpp,js,ts,html,css,angular,py,django,eclipse,firebase,postman,sqlite,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,py,cpp,,django,postman,sqlite,mongodb,postgres,gitlab)](https://skillicons.dev)
