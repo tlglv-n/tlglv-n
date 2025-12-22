@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🦅 Golang developer from KZ
   
-- 🏛 Student of KBTU (Kazakh-British Technical University)
-  
-- 🛠 Currently learning: making pet-projects
+- 🏛 Graduated student of KBTU (Kazakh-British Technical University)
   
 - 🧾 My CV: [Link](https://drive.google.com/file/d/1Inj--snozHTAC9-7_Xl8Sw1skJHl-3RM/view)
 ---
