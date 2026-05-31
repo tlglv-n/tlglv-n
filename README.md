@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🦅 Golang developer from KZ
+- 🦅 Backend developer from KZ
   
 - 🏛 Graduated student of KBTU (Kazakh-British Technical University)
   
-- 🧾 My CV: [Link](https://drive.google.com/file/d/1Inj--snozHTAC9-7_Xl8Sw1skJHl-3RM/view)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlglv-n&layout=compact)
 ---
